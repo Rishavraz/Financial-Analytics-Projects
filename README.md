@@ -201,6 +201,7 @@ The dashboard is an essential tool for financial analysis, offering a clear and 
 
 * Explore the dashboard and modify it as needed.
  
-
+🔗 Links
+linkedin
 
  
