@@ -1,4 +1,4 @@
-# Financial Analytics Projects
+ # Financial Analytics Projects
 
 ## Project Overview
 
@@ -204,3 +204,8 @@ The dashboard is an essential tool for financial analysis, offering a clear and 
 
 
  
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-raj-146789273/)
+
+
